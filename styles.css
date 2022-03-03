@@ -1,1 +1,81 @@
 /* Write your CSS here! */
+
+
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+}
+
+
+
+.navbar { 
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: darkslateblue;
+    border-radius: 5px;
+    overflow: auto;
+    height: 50px;
+   
+   
+}
+
+
+
+.navbar li{
+   float: left;
+}
+
+.navbar li a{
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  padding: 15px 20px
+}
+
+.navbar li a:hover {
+    background-color:#446190;
+    color: #f4f4f4;
+
+}
+
+
+
+.box{
+    width:100px ;
+    display: inline;
+     background-color: #FFFAF0;
+ 
+    
+    margin-top:700px
+}
+
+.box-2{
+   
+  height: auto;
+    background-color: #FFFAF0;
+    
+   
+}
+
+p{
+    text-align: left;
+    width: 300%;
+}
+
+.intro{
+    text-align: left;
+   
+}
+
+img{
+    width: 70%
+}
+
+
+
+
+
