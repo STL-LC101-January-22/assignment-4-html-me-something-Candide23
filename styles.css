@@ -13,11 +13,10 @@ html{
 }
 
 p{
-    text-align: center;
-  
+    background-color:green;
    
-  
 }
+
 
 
 
@@ -32,6 +31,10 @@ p{
     height: 50px;
    
    
+}
+
+#main-heard{
+    color: red;
 }
 
 
