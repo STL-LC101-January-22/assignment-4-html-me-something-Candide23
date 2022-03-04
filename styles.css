@@ -1,7 +1,11 @@
 /* Write your CSS here! */
 
-
+html{
+    background-image: none;
+    background-attachment: fixed;
+}
 .body{
+    background:#A9A9A9;
     font-family: Arial, Helvetica, sans-serif;
     width: 100%;
     max-width: 100%;
@@ -86,6 +90,12 @@ img {
 article.box-2{
     padding-top: 50px;
     
+}
+
+h2{
+    color: black;
+    max-width: 600px;
+
 }
 
 
