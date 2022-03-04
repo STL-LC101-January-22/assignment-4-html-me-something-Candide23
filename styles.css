@@ -37,7 +37,7 @@ p {
    
 }
 
-#main-heard{
+#mainHeading{
     color: black
 }
 
@@ -113,6 +113,11 @@ h1 {
     
     
 }
+
+#testP{
+    color: green;
+}
+
 
 
 
