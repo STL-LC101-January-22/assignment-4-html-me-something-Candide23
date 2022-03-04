@@ -12,9 +12,13 @@ html{
     text-align: left;
 }
 
-p{
-   color: black
-   
+p {
+	color: black;
+	font-family: 'Titillium Web', sans-serif;
+	margin: 20px auto;
+	font-size: 20px;
+    position: top;
+	
 }
 
 
@@ -99,6 +103,15 @@ h2{
     color: black;
     max-width: 600px;
 
+}
+
+h1 {
+    color: black;
+    margin: 20px auto;
+	font-size: 20px;
+	max-width: 600px;
+    
+    
 }
 
 
