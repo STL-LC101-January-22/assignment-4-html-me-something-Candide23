@@ -18,6 +18,11 @@ p {
 	margin: 20px auto;
 	font-size: 20px;
     position: top;
+    margin: 20px auto;
+	font-size: 30px;
+	max-width: 2800px;
+    
+   
 	
 }
 
@@ -91,6 +96,7 @@ p {
 img { 
   width: 50%;
   height: auto;
+  position: center;
   
 }
 
@@ -108,8 +114,11 @@ h2{
 h1 {
     color: black;
     margin: 20px auto;
-	font-size: 20px;
 	max-width: 600px;
+    padding-top: -10px;
+    max-width: 2800px;
+
+    font-size: 30px;
     
     
 }
@@ -117,6 +126,24 @@ h1 {
 #testP{
     color: green;
 }
+
+footer {
+    background-color: white;
+    padding: 10px;
+}
+
+#contact{
+    color: black;
+	font-family: 'Titillium Web', sans-serif;
+	margin: 20px auto;
+	font-size: 20px;
+    position: top;
+    margin: 20px auto;
+	font-size: 30px;
+	max-width: 2800px;
+
+}
+
 
 
 
